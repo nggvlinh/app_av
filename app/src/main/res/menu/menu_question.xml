@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/questall"
+        android:title="Tất cả"
+        android:icon="@drawable/icon_1"/>
+    <item
+        android:id="@+id/luyentuvung1"
+        android:title="ALL"
+        android:icon="@drawable/icon_4"/>
+    <item
+        android:id="@+id/luyentuvung2"
+        android:title="ALL"
+        android:icon="@drawable/icon_4"/>
+    <item
+        android:id="@+id/luyentuvung3"
+        android:title="All"
+        android:icon="@drawable/icon_4"/>
+</menu>
